@@ -17,6 +17,6 @@ scalacOptions ++= Seq(
 )
 
 libraryDependencies ++= Seq(
-  "org.typelevel" %% "cats-core" % "2.3.1",
+  "org.typelevel" %% "cats-core" % "2.4.1",
   "org.typelevel" %% "mouse" % "0.26.2"
 )
